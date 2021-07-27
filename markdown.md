@@ -1,5 +1,7 @@
 # Learning Markdown Assignment
 
+[Main Page](https://jrdelmu.github.io/reading-notes/)
+
 ## What is Markdown?
 Like Microsoft Word, GitHub also allows you to stylize text, create lists and tables, and much more. The difference is it must be done through the syntax that is **Markdown** rather than simply clicking a button.
 
@@ -45,4 +47,3 @@ Lists can be organized by **ordered** (1.) or **unordered**(*)
 `    1. Kick`  
 `    1. Push`  
     
-[Main Page](https://jrdelmu.github.io/reading-notes/)
