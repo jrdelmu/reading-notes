@@ -25,14 +25,17 @@ Lists can be organized by **ordered** (1.) or **unordered**(*)
 * Grocery List
   * Bacon
   * eggs
+
 #### Ordered
 1. Riding a Skateboard
     1. Kick
     1. Push
+
 #### Unordered
 `* Grocery List`  
 `* Bacon`  
 `* eggs`  
+
 #### Ordered
 `1. Riding a Skateboard`  
     `1. Kick`  
