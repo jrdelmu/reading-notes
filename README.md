@@ -3,6 +3,10 @@ Code Fellows Notes
 
 Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub porfolio](https://github.com/jrdelmu) page.
 
+## Table of Contents 
+- [The Coder's Computer](https://jrdelmu.github.io/reading-notes//coderscomp)
+- [Markdown Beginners Guide](https://jrdelmu.github.io/reading-notes/markdown)
+
 ## Growth Mindset
 There is no growth without resistance. A **growth mindset** to me is about being able to take challanges head on and being able to learn from the outcome whether you win or lose.
 
