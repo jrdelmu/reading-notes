@@ -34,11 +34,11 @@ Lists can be organized by **ordered** (1.) or **unordered**(*)
 ### Syntax View:
 #### Unordered
 `* Grocery List`  
-`* Bacon`  
-`* eggs`  
+`    * Bacon`  
+`    * eggs`  
 
 #### Ordered
 `1. Riding a Skateboard`  
-    `1. Kick`  
-    `1. Push`  
+`    1. Kick`  
+`    1. Push`  
     
