@@ -10,3 +10,4 @@ There is no growth without resistance. A **growth mindset** to me is about being
 * Never stop learning.
 * Patience is key.
 * “Nothing in the world is worth having or worth doing unless it means effort, pain, difficulty..." ― _Theodore Roosevelt_
+
