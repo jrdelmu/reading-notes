@@ -1,5 +1,6 @@
 # The Coder's Computer Assignment
 
+[Main Page](https://jrdelmu.github.io/reading-notes/)
 
 ## The Command Line
 
@@ -15,5 +16,3 @@ Touch | Creates a New file
 MKDIR | Creates a folder
 PWD | Diplays present working directory
 MV | Moves files
-
-[Main Page](https://jrdelmu.github.io/reading-notes/)
