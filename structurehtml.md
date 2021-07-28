@@ -1,5 +1,7 @@
 # Structure web pages with HTML assignment
 
+[Main Page](https://jrdelmu.github.io/reading-notes/)
+
 ## What is a wireframe?
 
 Wireframing is essentially architecture but instead of planning and designing building you're planning and designing a website! Before a webpage built and cluttered with colors, images, and videos a wireframe is layed out in plain black and white to allow you to more easily determine and plan where you need all the information to go. 
