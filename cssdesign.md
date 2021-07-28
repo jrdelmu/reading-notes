@@ -17,10 +17,10 @@ CSS can be implmented in three different ways:
 
 ## Syntax Format
 
-h1 {
-  color: navy;
-}  
-
+h1 {  
+      color: navy;  
+    }  
+      
 The code above is the basic syntax layout for CSS. The **h1** is the selector that allows us to specify what we want to style on the HTML sheet. Inside of the curly braces are declarations. Declarations take the form of **property** and **value**. Color is the property and navy is the value followed a semicolon.
 
 ## Color
