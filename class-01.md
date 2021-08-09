@@ -1,5 +1,7 @@
 # Introductory HTML and JavaScript 
 
+[Main Page](https://jrdelmu.github.io/reading-notes/)
+
 ## Structure
 
 HTML is the **structure** behind a webpage. Before CSS and JavaScript can be utilized a foundation must be laid out beforehand and HTML provides just that. Similar to a news paper or a word document, HTML allows the developer to create headings, subheadings and personalize the layout of the content in order to help the audience better understand and navigate through it.
