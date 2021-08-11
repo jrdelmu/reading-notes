@@ -25,16 +25,16 @@ example of an **unordered list**:
  </ul>  
 ```
 example of an **definition list**:
-
-`<dl>`  
-`    <dt>Term 1</dt>`  
-`    <dd>Definition 1</dd>`  
-`    <dt>Term 2</dt>`  
-`    <dd>Definition 2</dd>`  
-`    <dt>Term 3</dt>`  
-`    <dd>Definition 3</dd>`  
-`</dl>`  
-
+```
+<dl>  
+    <dt>Term 1</dt>  
+    <dd>Definition 1</dd>  
+    <dt>Term 2</dt>  
+    <dd>Definition 2</dd>  
+    <dt>Term 3</dt>
+    <dd>Definition 3</dd>  
+</dl>`  
+```
 ## Boxes
 
 ### Box Dimensions
@@ -42,21 +42,21 @@ example of an **definition list**:
 In CSS box dimension can be controlled with **width** and **height**.
 
 CSS:
-
-`body {`  
-`  height: 10px;`  
-`  width: 10px;`  
-`}`  
-
+```
+body {  
+  height: 10px;  
+  width: 10px;  
+} 
+```
 ### Limiting Width
 
 Contents of a page can be limited  or maxed using **min-width** and **max-width**.
-
-`div {`  
-`  min-width: 200px;`  
-`  max-width: 500px;`  
-`}`  
-
+```
+div {  
+  min-width: 200px;  
+  max-width: 500px;  
+}  
+```
 ### Limiting Height
 
 Liminiting height functions in the same way as liminiting with by using **min-height** and **max-height**
@@ -64,15 +64,16 @@ Liminiting height functions in the same way as liminiting with by using **min-he
 ### Overflow content
 
 The overflow property will either tell the browser to hide or add a scroll bar to content that cannot be contained within its box. 
-
-`p{`  
-`  overflow: hidden;`  
-`}`  
-
-`p{`  
-`  overflow: scroll;`  
-`}`  
-
+```
+p{  
+  overflow: hidden;  
+}  
+```
+```
+p{  
+  overflow: scroll;  
+}  
+```
 ### Border, Margin, Padding
 
 - A **border** is the border around an element. The border can be modified in size, style and color.
@@ -105,13 +106,13 @@ Loop Types:
 - while loop
 - for...of loop
 - for...in loop
-
-`let loop = function () {`  
-`  for(let i = 0; i < 10; i++){`  
-`    console.log('loops')`  
-`  }`  
-`}`  
-
+```
+let loop = function () {  
+  for(let i = 0; i < 10; i++){  
+    console.log('loops')  
+  }  
+}  
+```
 `loop(1)`
 
 The function above will print the word 'loop' ten times.
