@@ -18,11 +18,11 @@
 
 example of an **unordered list**:
 
-`<ul>`  
-`    <li>Item 1</li>`  
-`    <li>Item 2</li>`  
-`    <li>Item 3</li>`  
-`</ul>`  
++ <ul> 
++    <li>Item 1</li>  
++    <li>Item 2</li>  
++    <li>Item 3</li>  
++ </ul>  
 
 example of an **definition list**:
 
