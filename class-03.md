@@ -17,23 +17,13 @@
   - A list within a list.
 
 example of an **unordered list**:
-- 
-+ <ul> 
-+    <li>Item 1</li>  
-+    <li>Item 2</li>  
-+    <li>Item 3</li>  
-+ </ul>  
-
-    * ex. < ol > ordered lists are numbered 
-  * ex.
-
-        < ol > ordered lists are numbered 
-            < li >steak </ li >
-            < li >chesse </ li >
-            < li > bread </ li >
-          </ol >
-        < /ol >
-
+```
+ <ul> 
+    <li>Item 1</li>  
+    <li>Item 2</li>  
+    <li>Item 3</li>  
+ </ul>  
+```
 example of an **definition list**:
 
 `<dl>`  
