@@ -24,6 +24,16 @@ example of an **unordered list**:
 +    <li>Item 3</li>  
 + </ul>  
 
+    * ex. < ol > ordered lists are numbered 
+  * ex.
+
+        < ol > ordered lists are numbered 
+            < li >steak </ li >
+            < li >chesse </ li >
+            < li > bread </ li >
+          </ol >
+        < /ol >
+
 example of an **definition list**:
 
 `<dl>`  
