@@ -16,6 +16,7 @@ Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub p
 - CODE 201
   - [Introductory HTML and JavaScript](https://jrdelmu.github.io/reading-notes/class-01)
   - [Basics of HTML, CSS & JS](https://jrdelmu.github.io/reading-notes/class-02)
+  - [HTML Lists, Control Flow with JS, and the CSS Box Model](https://jrdelmu.github.io/reading-notes/class-03)
 
 ## Growth Mindset
 There is no growth without resistance. A **growth mindset** to me is about being able to take challanges head on and being able to learn from the outcome whether you win or lose.
