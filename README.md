@@ -22,6 +22,7 @@ Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub p
   - [Problem Domain, Objects, and the DOM](https://jrdelmu.github.io/reading-notes/class-06)
   - [Object-Oriented Programming, HTML Tables](https://jrdelmu.github.io/reading-notes/class-07)
   - [CSS Layout](https://jrdelmu.github.io/reading-notes/class-08)
+  - [Forms and JS Events](https://jrdelmu.github.io/reading-notes/class-09)
 
 ## Growth Mindset
 There is no growth without resistance. A **growth mindset** to me is about being able to take challanges head on and being able to learn from the outcome whether you win or lose.
