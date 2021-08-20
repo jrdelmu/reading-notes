@@ -2,7 +2,10 @@
 
 [Main Page](https://jrdelmu.github.io/reading-notes/)
 
-The **order of execution** is the order that statements are processed.
+The **order of execution** is the order that statements are processed.  
+  
+Example:  
+  
 2.
 ```
 function function sayHello() {
