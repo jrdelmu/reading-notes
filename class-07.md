@@ -8,12 +8,12 @@
 
 ### Table Structure Elements
 
-- <tr> The table row starts the new row of the table
-- <td> Table data is displayed inbetween these tags
-- <th> Table headings headings function as just that, headings for the data in the table
-- <thead> contains the headings
-- <tbody> contains the body of the table
-- <tfoot> stores the footer
+- `<tr>` The table row starts the new row of the table
+- `<td>` Table data is displayed inbetween these tags
+- `<th>` Table headings headings function as just that, headings for the data in the table
+- `<thead>` contains the headings
+- `<tbody>` contains the body of the table
+- `<tfoot>` stores the footer
 
 ## Functions, Methods, and Objects
 
