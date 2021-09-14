@@ -28,6 +28,8 @@ Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub p
   - [Chart.js, Canvas](https://jrdelmu.github.io/reading-notes/class-12)
   - [The Past, Present, and Future of Local Storage for Web Applications](https://jrdelmu.github.io/reading-notes/class-13)
   - [CSS Transforms, Transitions, and Animations](https://jrdelmu.github.io/reading-notes/class-14)
+- CODE 301
+  - [State and Props](https://jrdelmu.github.io/reading-notes/class-16)
 
 ## Growth Mindset
 There is no growth without resistance. A **growth mindset** to me is about being able to take challanges head on and being able to learn from the outcome whether you win or lose.
