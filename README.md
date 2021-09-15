@@ -30,6 +30,7 @@ Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub p
   - [CSS Transforms, Transitions, and Animations](https://jrdelmu.github.io/reading-notes/class-14)
 - CODE 301
   - [State and Props](https://jrdelmu.github.io/reading-notes/class-16)
+  - [Passing Functions as Props](https://jrdelmu.github.io/reading-notes/class-17)
 
 ## Growth Mindset
 There is no growth without resistance. A **growth mindset** to me is about being able to take challanges head on and being able to learn from the outcome whether you win or lose.

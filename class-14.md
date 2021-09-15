@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Introduction to React and Components
-
-[Main Page](https://jrdelmu.github.io/reading-notes/)
-=======
 # CSS Transforms, Transitions, and Animations
 
 [Main Page](https://jrdelmu.github.io/reading-notes/)
@@ -43,4 +38,4 @@ examples:
 - transition: margin-right 2s, color 1s;
 - transition: all 1s ease-out;
 ```
->>>>>>> c7262c2b782d18eb0e821ccaf5d7d59087b15e03
+
