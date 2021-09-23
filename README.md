@@ -35,6 +35,7 @@ Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub p
   - [Putting it all together](https://jrdelmu.github.io/reading-notes/class-19)
   - [REST](https://jrdelmu.github.io/reading-notes/class-21)
   - [API](https://jrdelmu.github.io/reading-notes/class-22)
+  - [Functional Programming](https://jrdelmu.github.io/reading-notes/class-23)
 
 ## Growth Mindset
 There is no growth without resistance. A **growth mindset** to me is about being able to take challanges head on and being able to learn from the outcome whether you win or lose.
