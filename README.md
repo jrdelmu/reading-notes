@@ -38,6 +38,7 @@ Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub p
   - [Functional Programming](https://jrdelmu.github.io/reading-notes/class-23)
   - [In memory storage](https://jrdelmu.github.io/reading-notes/class-24)
   - [Mongo and Mongoose](https://jrdelmu.github.io/reading-notes/class-25)
+  - [CRUD](https://jrdelmu.github.io/reading-notes/class-26)
 
 
 ## Growth Mindset
