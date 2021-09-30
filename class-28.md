@@ -9,7 +9,7 @@
 2. Give an example of what using OAuth would look like.
   - When you log onto a website and it offers one or more opportunities to log on using another website's logon.
 3. How does OAuth work? What are the steps that it takes to authenticate the user?
-What is OpenID?
+4. What is OpenID?
 - The first website connects to the second website on behalf of the user, using OAuth, providing the user’s verified identity.
 - The second site generates a one-time token and a one-time secret unique to the transaction and parties involved.
 - The first site gives this token and secret to the initiating user’s client software.
