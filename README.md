@@ -40,6 +40,7 @@ Hello World! My name is Jovincent Del Mundo and this is the link to my [GitHub p
   - [Mongo and Mongoose](https://jrdelmu.github.io/reading-notes/class-25)
   - [CRUD](https://jrdelmu.github.io/reading-notes/class-26)
   - [Diversity & Inclusion in the Tech Industry](https://jrdelmu.github.io/reading-notes/class-27)
+  - [Authentication](https://jrdelmu.github.io/reading-notes/class-28)
 
 
 ## Growth Mindset
